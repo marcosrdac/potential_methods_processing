@@ -23,7 +23,7 @@ Is the envelope of the the complex signal (via Hilbert transform). It is useful 
 
 ![](asa45.png)
 
-Bellow image (from Wikipedia) helps understanding the concept of envelope (in red).
+Bellow image (from Wikipedia) helps understanding the concept of envelope (in red) of a function (in blue).
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Analytic.svg/1024px-Analytic.svg.png)
 
