@@ -45,4 +45,4 @@ Sees the data as if it was measured from a lower quota plan (it means moving nea
 
 # Example data used
 
-The magnetic data used as example were modeled with the routines present in Richard j. Blakely's "Potential Theory in Gravity and Magnetic Applications"'s Apendix B.
+The magnetic data used as example were modeled with the routines present in Richard J. Blakely's "Potential Theory in Gravity and Magnetic Applications"'s Apendix B.
